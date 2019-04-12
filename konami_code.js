@@ -21,7 +21,7 @@ function init() {
       index++;
       
       if (index === codes.length) {
-        alert('Congratulations! You have entered the konami code and won 3 wishes!')
+        alert('Enjoy your Easter eggs!')
         
         index = 0;
       }
